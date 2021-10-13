@@ -8,6 +8,10 @@ Access this Binder at the following URL
 
 http://mybinder.org/v2/gh/binder-examples/requirements/master
 
+Link de la aplicacion web
+
+https://hub.gke2.mybinder.org/user/junior19a2000-webapp-c3exm9dl/voila/render/WebAplication.ipynb?token=QsP1tzHsTdamaRHeSUHWwA
+
 ## Notes
 The `requirements.txt` file should list all Python libraries that your notebooks
 depend on, and they will be installed using:
