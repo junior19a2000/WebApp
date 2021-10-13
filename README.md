@@ -12,6 +12,12 @@ Link de la aplicacion web
 
 https://hub.gke2.mybinder.org/user/junior19a2000-webapp-c3exm9dl/voila/render/WebAplication.ipynb?token=QsP1tzHsTdamaRHeSUHWwA
 
+Binder
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/junior19a2000/WebApp/HEAD?urlpath=%2Fvoila%2Frender%2FWebAplication.ipynb)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/junior19a2000/WebApp/HEAD?urlpath=%2Fvoila%2Frender%2FWebAplication.ipynb
+ 
 ## Notes
 The `requirements.txt` file should list all Python libraries that your notebooks
 depend on, and they will be installed using:
