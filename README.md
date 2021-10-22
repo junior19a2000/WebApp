@@ -12,6 +12,10 @@ Link de la aplicacion web
 
 https://mybinder.org/v2/gh/junior19a2000/WebApp/HEAD?urlpath=%2Fvoila%2Frender%2FWebAplication.ipynb
 
+Link de la aplicacion web actualizada
+
+https://mybinder.org/v2/gh/junior19a2000/WebApp/HEAD?urlpath=%2Fvoila%2Frender%2FWebSolarApp.ipynb
+
 Binder
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/junior19a2000/WebApp/HEAD?urlpath=%2Fvoila%2Frender%2FWebAplication.ipynb)
